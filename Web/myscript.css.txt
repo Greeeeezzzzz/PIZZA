@@ -1,0 +1,114 @@
+body{
+  font-family: Segoe UI Light;
+  background-image:url(http://www.chelny-mebel.ru/images/stories/colors_LDSP/greenfull.jpg);
+  backgroung-size: cover;
+  
+}
+h1 {
+  font-size: 40px;
+   text-align: center; 
+  text-color: #87220D;
+  font-style: italic;
+}
+
+.header {
+   background-image: url(http://xn--74-6kc6athahg1g4b.xn--p1ai/static/i/pizza-5.jpg);
+  background-size: cover;
+  position: absolute;
+  width:110%;
+  height: 200px;
+  margin: -20px -10px auto;}
+  
+.title1 {
+    position:absolute;
+    top: 10%;
+    left: 39%;
+    width: 250px;
+    background: #fff; 
+    border-radius: 20px;
+    margin: 0 auto;
+    padding: 0px 10px 10px 10px;
+}
+
+.main{
+  padding-top: 200px;
+
+  font-size: 25px;
+  width: auto;
+}
+
+.testo{
+  postion:absolute;
+  left:50%;
+  text-align: center;
+  text-size: 40px;
+}
+
+.spinner{width: 30px;}
+
+.table1{
+  display: table;  
+  width: auto;
+  margin: 0 auto;
+  background-color:#FAFAFA;
+  border: 1px solid;
+  border-radius: 35px;
+  padding: 10px 20px 20px 20px;
+
+}
+
+.row{
+  display: table-row;
+  width: 100%;
+}
+.cellmain{
+  display: cell;
+  width:100%;
+}
+
+.cell{
+  display: table-cell;
+  text-align: left;
+  padding:10px 0 0 40px;
+  width: 100%;
+
+}
+
+.tableheader{
+
+  text-align: center; 
+  margin: 0 auto;
+}
+
+.cell-img{
+  display: table-cell;
+  vertical-align: middle;
+  padding: auto auto;
+}
+
+
+h2{
+  text-align:center;
+  text-size: 40px;
+}
+
+h3{
+  text-align: center;
+}
+.button1{
+  text-align: center;
+  margin:0 auto;
+}
+.home{
+  text-align:center;
+}
+h5{
+   text-decoration: underline;
+   font-size: 25px;
+}
+.buttom{
+  width:100%;
+  font-size: 25px;
+  text-align: center;
+  
+}
